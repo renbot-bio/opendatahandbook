@@ -17,9 +17,9 @@ If you open up a bunch of datasets, it's definitely worth spending a bit of time
 
 In addition to things like press releases, announcements on your website, and so on, you may consider:
 
--   Contacting prominent organisations or individuals who work/are interested in this area
--   Contacting relevant mailing lists or social networking groups
--   Directly contacting prospective users who you know may be interested in this data
+-   Contacting prominent organisations or individuals who work/are interested in this area.
+-   Contacting relevant mailing lists or social networking groups.
+-   Directly contacting prospective users who you know may be interested in this data.
 
 ### Understanding your audience
 
@@ -27,10 +27,10 @@ Like all public communication, engaging with the data community needs to be targ
 
 Digital communities tend to be very willing to share new information, yet they very rapidly consume it. Write as if your messages will be skimmed over, rather than critically examined in-depth.
 
-Members of the tech community are less likely than the general public to use MS Windows. This means that you should not save documents in MS Office formats which can be read offline. There are two resons for this:
+Members of the tech community are less likely than the general public to use MS Windows. This means that you should not save documents in MS Office formats which can be read offline. There are two reasons for this:
 
 -   The first is that those documents will be less accessible. Rather than the document you see on your screen, readers may see an imperfect copy from an alternative.
--   Secondly, your agency sends an implicit message that you are unwilling to take a step towards developers. Instead, you show that you are expecting the technology community to come to you.
+-   Secondly, your agency sends an implicit message that you are unwilling to take a step towards developers. Instead, you imply that you expect the technology community to come to you.
 
 ### Post your material on third-party sites
 
@@ -40,11 +40,11 @@ Many blogs have created a large readership in specialised topic areas. It may be
 
 It's unrealistic to expect that officials should spend long periods of time engaging with social media. However, there are several things that you can do to make sure that your content can be easily shared between technical users. Some tips:
 
--   Provide unique pages for each piece of content
+-   Provide unique pages for each piece of content.
 
     When a message is shared with others, the recipient of the referral will be looking for the relevant content quickly.
 
--   Avoid making people download your press releases
+-   Avoid making people download your press releases.
 
     Press releases are fine. They are concise messages about a particular point. However, if you require people to download the content and for it to open outside of a web browser, then fewer people will read it. Search engines are less likely to index the content. People are less likely to click to download.
 
@@ -54,7 +54,7 @@ It's unrealistic to expect that officials should spend long periods of time enga
 
 ### Social media
 
-It's inefficient for cash-strapped agencies to spend hours on social media sites. The most significant way that your voice can be heard through these fora is by making sure that blog posts are easily shareable. That means, before reading the next section, make sure that you have read the last. With that in mind, here are a few suggestions:
+It is inefficient for cash-strapped agencies to spend hours on social media sites. The most significant way that your voice can be heard through these fora is by making sure that blog posts are easily shareable. That means, before reading the next section, make sure that you have read the last. With that in mind, here are a few suggestions:
 
 -   Discussion fora
 
@@ -74,19 +74,19 @@ It's inefficient for cash-strapped agencies to spend hours on social media sites
 
 Face-to-face events can be a very effective way to encourage others to use your data. Reasons that you may consider putting on an event include:
 
--   Finding out more about prospective re-users
--   Finding out more about demand for different datasets
--   Finding out more about how people want to re-use your data
--   Enabling prospective re-users to find out more about what data you have
--   Enabling prospective users to meet each other (e.g. so they can collaborate)
--   Exposing your data to a wider audience (e.g. from blog posts or media coverage that the event may help to generate)
+-   Finding out more about prospective re-users.
+-   Finding out more about demand for different datasets.
+-   Finding out more about how people want to re-use your data.
+-   Enabling prospective re-users to find out more about what data you have.
+-   Enabling prospective users to meet each other (e.g. so they can collaborate).
+-   Exposing your data to a wider audience (e.g. from blog posts or media coverage that the event may help to generate).
 
 There are also lots of different ways of running events, and different types of events, depending on what aim you want to achieve. As well as more traditional conference models, which will include things like preprepared formal talks, presentations and demonstrations, there are also various kinds of participant driven events, where those who turn up may:
 
--   Guide or define the agenda for the event
--   Introduce themselves, talk about what they're interested in and what they're working on, on an ad hoc basis
--   Give impromptu micro-short presentations on something they are working on
--   Lead sessions on something they are interested in
+-   Guide or define the agenda for the event.
+-   Introduce themselves, talk about what they're interested in and what they're working on, on an ad hoc basis.
+-   Give impromptu micro-short presentations on something they are working on.
+-   Lead sessions on something they are interested in.
 
 There is plenty of documentation online about how to run these kinds of events, which you can find by searching for things like: 'unconference', 'barcamp', 'meetup', 'speedgeek', 'lightning talk', and so on. You may also find it worthwhile to contact people who have run these kinds of events in other countries, who will most likely be keen to help you out and to advise you on your event. It may be valuable to partner with another organisation (e.g. a civic society organisation, a news organisation or an educational institution) to broaden your base participants and to increase your exposure.
 
